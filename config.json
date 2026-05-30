@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercpdate",
+        "uuid": 10329993,
+        "checksum": "g8w4fg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
